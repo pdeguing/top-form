@@ -1,0 +1,23 @@
+{
+  "name": "top-form",
+  "version": "1.0.0",
+  "description": "just a form to work a bit",
+  "homepage": "https://github.com/pdeguing/top-form#readme",
+  "bugs": {
+    "url": "https://github.com/pdeguing/top-form/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pdeguing/top-form.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "modern-normalize": "^3.0.1"
+  }
+}
